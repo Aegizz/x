@@ -12,7 +12,7 @@ function deletePost1() {
 
 function submitHackerPost() {
     var title = "Come checkout my hacking github!";
-    var content = "Heres my github: <a href='https://github.com/Aegizz'>Aegizz</a>;
+    var content = "Heres my github: <a href='https://github.com/Aegizz'>Aegizz</a>";
     // Validate title and content if necessary
 
     var x = new XMLHttpRequest();
